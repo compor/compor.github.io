@@ -1,0 +1,24 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
+
+# Setup
+title:               Nostos
+tagline:             'A journal of digital (and various other forms of) travels'
+description:         ''
+url:                 http://compor.github.io
+baseurl:             ''
+gems:                [jekyll-paginate]
+paginate:            5
+paginate_path:       "page:num"
+
+# About/contact
+author:
+  name:              Chris Vasiladiotis
+  url:               https://twitter.com/compor
+  email:             cvassiladiotis@gmail.com
+
+# Custom vars
+version:             1.0.0

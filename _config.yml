@@ -10,7 +10,7 @@ tagline:             'A loose thread of my travels'
 description:         ''
 url:                 http://compor.github.io
 baseurl:             ''
-gems:                [jekyll-paginate]
+gems:                [jekyll-paginate, jekyll-feed]
 paginate:            5
 paginate_path:       "page:num"
 include:            ["_pages"]

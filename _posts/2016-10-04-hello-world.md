@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Hello World
+categories: blog
+tags: meta
+
 ---
 
 This is my first blog post!
